@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  },
+  "name": "practicamongoexpress",
+  "version": "1.0.0",
+  "description": "Instalar librerías necesarias",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev":"node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
